@@ -2,7 +2,7 @@ class Solution {
     public boolean judgeSquareSum(int c) {
         long s = 0;
         long l=0;
-        long h =Math.sqrt((long)c);
+        long h =(long)Math.sqrt(c);
         while(l<=h){
             s=l*l+h*h;
             if(s == c)
