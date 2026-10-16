@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0704-binary-search) |
+| [0922-sort-array-by-parity-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 ## Depth-First Search
 |  |
 | ------- |
