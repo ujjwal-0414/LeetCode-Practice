@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+| [0633-sum-of-square-numbers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
