@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
