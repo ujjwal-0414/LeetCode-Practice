@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0520-detect-capital) |
+| [1021-remove-outermost-parentheses](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
