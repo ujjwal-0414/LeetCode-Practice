@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
