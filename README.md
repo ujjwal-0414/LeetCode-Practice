@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ujjwal-0414/LeetCode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
